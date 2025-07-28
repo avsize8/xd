@@ -1,0 +1,17 @@
+[tool.black]
+line-length = 88
+target-version = ['py312']
+
+[tool.isort]
+profile = "black"
+line_length = 88
+
+[project]
+name = "usurt_final_bot"
+version = "0.1.0"
+description = "Telegram bot on aiogram"
+requires-python = ">=3.12"
+dependencies = [
+    "aiogram",
+    "python-dotenv",
+] 

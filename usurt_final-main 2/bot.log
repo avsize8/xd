@@ -1,0 +1,316 @@
+2025-07-28 11:15:52,901 - __main__ - INFO - Starting bot
+2025-07-28 11:15:53,302 - __main__ - INFO - Bot started successfully!
+2025-07-28 11:15:53,302 - aiogram.dispatcher - INFO - Start polling
+2025-07-28 11:15:53,421 - aiogram.dispatcher - INFO - Run polling for bot @USURT_Meets_bot id=7691969270 - 'usurt_meets'
+2025-07-28 11:15:58,321 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-07-28 11:15:58,322 - aiogram.dispatcher - INFO - Polling stopped for bot @USURT_Meets_bot id=7691969270 - 'usurt_meets'
+2025-07-28 11:15:58,323 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-28 11:15:58,575 - __main__ - INFO - Bot stopped!
+2025-07-28 11:21:32,604 - __main__ - INFO - Starting bot
+2025-07-28 11:21:33,022 - __main__ - INFO - Bot started successfully!
+2025-07-28 11:21:33,022 - aiogram.dispatcher - INFO - Start polling
+2025-07-28 11:21:33,123 - aiogram.dispatcher - INFO - Run polling for bot @USURT_Meets_bot id=7691969270 - 'usurt_meets'
+2025-07-28 11:21:49,706 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: /start
+2025-07-28 11:21:50,058 - aiogram.event - INFO - Update id=144993109 is handled. Duration 351 ms by bot id=7691969270
+2025-07-28 11:21:56,609 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: Мои матчи
+2025-07-28 11:21:56,740 - aiogram.event - INFO - Update id=144993110 is handled. Duration 130 ms by bot id=7691969270
+2025-07-28 11:21:58,877 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: Создать анкету
+2025-07-28 11:21:59,085 - aiogram.event - INFO - Update id=144993111 is handled. Duration 208 ms by bot id=7691969270
+2025-07-28 11:22:01,809 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: Создать анкету
+2025-07-28 11:22:01,912 - aiogram.event - INFO - Update id=144993112 is handled. Duration 103 ms by bot id=7691969270
+2025-07-28 11:22:03,956 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: Моя статистика
+2025-07-28 11:22:04,081 - aiogram.event - INFO - Update id=144993113 is handled. Duration 125 ms by bot id=7691969270
+2025-07-28 11:22:05,262 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: Моя анкета
+2025-07-28 11:22:05,426 - aiogram.event - INFO - Update id=144993114 is handled. Duration 165 ms by bot id=7691969270
+2025-07-28 11:22:06,339 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: Найти анкеты
+2025-07-28 11:22:06,558 - aiogram.event - INFO - Update id=144993115 is handled. Duration 219 ms by bot id=7691969270
+2025-07-28 11:22:07,542 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: Найти анкеты
+2025-07-28 11:22:07,645 - aiogram.event - INFO - Update id=144993116 is handled. Duration 102 ms by bot id=7691969270
+2025-07-28 11:22:11,043 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: /help
+2025-07-28 11:22:11,143 - aiogram.event - INFO - Update id=144993117 is handled. Duration 100 ms by bot id=7691969270
+2025-07-28 11:22:16,953 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: Создать анкету
+2025-07-28 11:22:17,069 - aiogram.event - INFO - Update id=144993118 is handled. Duration 116 ms by bot id=7691969270
+2025-07-28 11:23:50,169 - __main__ - INFO - Starting bot
+2025-07-28 11:23:50,655 - __main__ - INFO - Setting up handlers...
+2025-07-28 11:23:50,657 - __main__ - INFO - Handlers setup completed
+2025-07-28 11:23:50,657 - __main__ - INFO - Router included in dispatcher
+2025-07-28 11:23:50,769 - __main__ - INFO - Bot started successfully!
+2025-07-28 11:23:50,769 - aiogram.dispatcher - INFO - Start polling
+2025-07-28 11:23:50,863 - aiogram.dispatcher - INFO - Run polling for bot @USURT_Meets_bot id=7691969270 - 'usurt_meets'
+2025-07-28 11:23:50,943 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-28 11:23:50,943 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7691969270)
+2025-07-28 11:23:55,064 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-28 11:23:55,064 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7691969270)
+2025-07-28 11:23:56,152 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-28 11:23:56,152 - aiogram.dispatcher - WARNING - Sleep for 1.390502 seconds and try again... (tryings = 1, bot id = 7691969270)
+2025-07-28 11:24:00,685 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-28 11:24:00,686 - aiogram.dispatcher - WARNING - Sleep for 1.288548 seconds and try again... (tryings = 1, bot id = 7691969270)
+2025-07-28 11:24:02,055 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-28 11:24:02,055 - aiogram.dispatcher - WARNING - Sleep for 1.611776 seconds and try again... (tryings = 2, bot id = 7691969270)
+2025-07-28 11:24:06,753 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-28 11:24:06,753 - aiogram.dispatcher - WARNING - Sleep for 1.696127 seconds and try again... (tryings = 2, bot id = 7691969270)
+2025-07-28 11:24:08,535 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-28 11:24:08,535 - aiogram.dispatcher - WARNING - Sleep for 1.991700 seconds and try again... (tryings = 3, bot id = 7691969270)
+2025-07-28 11:24:12,291 - aiogram.dispatcher - WARNING - Received SIGTERM signal
+2025-07-28 11:24:12,292 - aiogram.dispatcher - WARNING - Received SIGTERM signal
+2025-07-28 11:24:12,292 - aiogram.dispatcher - INFO - Polling stopped for bot @USURT_Meets_bot id=7691969270 - 'usurt_meets'
+2025-07-28 11:24:12,292 - aiogram.dispatcher - INFO - Polling stopped for bot @USURT_Meets_bot id=7691969270 - 'usurt_meets'
+2025-07-28 11:24:12,292 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-28 11:24:12,292 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-28 11:24:12,544 - __main__ - INFO - Bot stopped!
+2025-07-28 11:24:12,544 - __main__ - INFO - Bot stopped!
+2025-07-28 11:24:20,230 - __main__ - INFO - Starting bot
+2025-07-28 11:24:20,503 - __main__ - INFO - Setting up handlers...
+2025-07-28 11:24:20,503 - __main__ - INFO - Handlers setup completed
+2025-07-28 11:24:20,503 - __main__ - INFO - Router included in dispatcher
+2025-07-28 11:24:20,586 - __main__ - INFO - Bot started successfully!
+2025-07-28 11:24:20,586 - aiogram.dispatcher - INFO - Start polling
+2025-07-28 11:24:20,669 - aiogram.dispatcher - INFO - Run polling for bot @USURT_Meets_bot id=7691969270 - 'usurt_meets'
+2025-07-28 11:24:41,582 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: Найти анкеты
+2025-07-28 11:24:41,858 - aiogram.event - INFO - Update id=144993119 is handled. Duration 276 ms by bot id=7691969270
+2025-07-28 11:24:43,418 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: Создать анкету
+2025-07-28 11:24:43,519 - aiogram.event - INFO - Update id=144993120 is handled. Duration 100 ms by bot id=7691969270
+2025-07-28 11:24:47,998 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: ваня
+2025-07-28 11:24:48,099 - aiogram.event - INFO - Update id=144993121 is handled. Duration 101 ms by bot id=7691969270
+2025-07-28 11:24:50,584 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: 11
+2025-07-28 11:24:50,687 - aiogram.event - INFO - Update id=144993122 is handled. Duration 104 ms by bot id=7691969270
+2025-07-28 11:24:55,336 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: 17
+2025-07-28 11:24:55,454 - aiogram.event - INFO - Update id=144993123 is handled. Duration 119 ms by bot id=7691969270
+2025-07-28 11:24:58,892 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: Мужской
+2025-07-28 11:24:59,011 - aiogram.event - INFO - Update id=144993124 is handled. Duration 120 ms by bot id=7691969270
+2025-07-28 11:25:07,225 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: опп
+2025-07-28 11:25:07,328 - aiogram.event - INFO - Update id=144993125 is handled. Duration 103 ms by bot id=7691969270
+2025-07-28 11:25:09,212 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: 2
+2025-07-28 11:25:09,317 - aiogram.event - INFO - Update id=144993126 is handled. Duration 105 ms by bot id=7691969270
+2025-07-28 11:25:11,147 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: 10
+2025-07-28 11:25:11,375 - aiogram.event - INFO - Update id=144993127 is handled. Duration 229 ms by bot id=7691969270
+2025-07-28 11:25:15,487 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: молммолцм
+2025-07-28 11:25:15,606 - aiogram.event - INFO - Update id=144993128 is handled. Duration 119 ms by bot id=7691969270
+2025-07-28 11:25:17,562 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: оалмомлаошщоашщаомаум
+2025-07-28 11:25:17,660 - aiogram.event - INFO - Update id=144993129 is handled. Duration 98 ms by bot id=7691969270
+2025-07-28 11:25:19,813 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: -
+2025-07-28 11:25:19,921 - aiogram.event - INFO - Update id=144993130 is handled. Duration 108 ms by bot id=7691969270
+2025-07-28 11:25:26,862 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: [не текстовое сообщение]
+2025-07-28 11:25:26,967 - aiogram.event - INFO - Update id=144993131 is handled. Duration 106 ms by bot id=7691969270
+2025-07-28 11:25:31,055 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: Найти анкеты
+2025-07-28 11:25:31,155 - aiogram.event - INFO - Update id=144993132 is handled. Duration 101 ms by bot id=7691969270
+2025-07-28 11:25:32,674 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: Только мужчины
+2025-07-28 11:25:32,674 - root - INFO - Поиск по полу: gender_param=мужской
+2025-07-28 11:25:32,675 - root - INFO - Найдено анкет: 0
+2025-07-28 11:25:32,773 - aiogram.event - INFO - Update id=144993133 is handled. Duration 100 ms by bot id=7691969270
+2025-07-28 11:25:33,627 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: Все анкеты
+2025-07-28 11:25:33,729 - aiogram.event - INFO - Update id=144993134 is handled. Duration 104 ms by bot id=7691969270
+2025-07-28 11:25:34,327 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: Только женщины
+2025-07-28 11:25:34,327 - root - INFO - Поиск по полу: gender_param=женский
+2025-07-28 11:25:34,327 - root - INFO - Найдено анкет: 0
+2025-07-28 11:25:34,426 - aiogram.event - INFO - Update id=144993135 is handled. Duration 101 ms by bot id=7691969270
+2025-07-28 11:25:37,294 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: /start
+2025-07-28 11:25:37,412 - aiogram.event - INFO - Update id=144993136 is handled. Duration 118 ms by bot id=7691969270
+2025-07-28 11:25:39,616 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: Моя анкета
+2025-07-28 11:25:39,740 - aiogram.event - INFO - Update id=144993137 is handled. Duration 125 ms by bot id=7691969270
+2025-07-28 11:25:40,760 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: Моя статистика
+2025-07-28 11:25:40,888 - aiogram.event - INFO - Update id=144993138 is handled. Duration 129 ms by bot id=7691969270
+2025-07-28 11:29:49,183 - __main__ - INFO - Starting bot
+2025-07-28 11:29:49,662 - __main__ - INFO - Setting up handlers...
+2025-07-28 11:29:49,663 - __main__ - INFO - Handlers setup completed
+2025-07-28 11:29:49,663 - __main__ - INFO - Router included in dispatcher
+2025-07-28 11:29:49,751 - __main__ - INFO - Bot started successfully!
+2025-07-28 11:29:49,751 - aiogram.dispatcher - INFO - Start polling
+2025-07-28 11:29:49,830 - aiogram.dispatcher - INFO - Run polling for bot @USURT_Meets_bot id=7691969270 - 'usurt_meets'
+2025-07-28 11:29:49,912 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-28 11:29:49,912 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7691969270)
+2025-07-28 11:29:54,034 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-28 11:29:54,034 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7691969270)
+2025-07-28 11:29:55,116 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-28 11:29:55,117 - aiogram.dispatcher - WARNING - Sleep for 1.345814 seconds and try again... (tryings = 1, bot id = 7691969270)
+2025-07-28 11:29:58,884 - aiogram.dispatcher - INFO - Connection established (tryings = 2, bot id = 7691969270)
+2025-07-28 11:29:58,885 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: /start
+2025-07-28 11:29:59,001 - aiogram.event - INFO - Update id=144993139 is handled. Duration 116 ms by bot id=7691969270
+2025-07-28 11:29:59,554 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-28 11:29:59,554 - aiogram.dispatcher - WARNING - Sleep for 1.259819 seconds and try again... (tryings = 1, bot id = 7691969270)
+2025-07-28 11:30:00,901 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: Создать анкету
+2025-07-28 11:30:00,906 - aiogram.dispatcher - INFO - Connection established (tryings = 2, bot id = 7691969270)
+2025-07-28 11:30:00,908 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: Создать анкету
+2025-07-28 11:30:00,983 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-28 11:30:00,983 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7691969270)
+2025-07-28 11:30:01,107 - aiogram.event - INFO - Update id=144993140 is handled. Duration 205 ms by bot id=7691969270
+2025-07-28 11:30:01,307 - aiogram.event - INFO - Update id=144993140 is handled. Duration 400 ms by bot id=7691969270
+2025-07-28 11:30:05,025 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7691969270)
+2025-07-28 11:30:05,026 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: 1
+2025-07-28 11:30:05,064 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-28 11:30:05,064 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7691969270)
+2025-07-28 11:30:05,240 - aiogram.event - INFO - Update id=144993141 is handled. Duration 214 ms by bot id=7691969270
+2025-07-28 11:30:06,147 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-28 11:30:06,147 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7691969270)
+2025-07-28 11:30:07,009 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7691969270)
+2025-07-28 11:30:07,011 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: 111
+2025-07-28 11:30:07,113 - aiogram.event - INFO - Update id=144993142 is handled. Duration 103 ms by bot id=7691969270
+2025-07-28 11:30:08,465 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7691969270)
+2025-07-28 11:30:08,467 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: 11
+2025-07-28 11:30:08,577 - aiogram.event - INFO - Update id=144993143 is handled. Duration 110 ms by bot id=7691969270
+2025-07-28 11:30:10,271 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-28 11:30:10,271 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7691969270)
+2025-07-28 11:30:10,388 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: 12
+2025-07-28 11:30:10,508 - aiogram.event - INFO - Update id=144993144 is handled. Duration 120 ms by bot id=7691969270
+2025-07-28 11:30:11,356 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-28 11:30:11,356 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7691969270)
+2025-07-28 11:30:13,818 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7691969270)
+2025-07-28 11:30:13,819 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: 18
+2025-07-28 11:30:14,051 - aiogram.event - INFO - Update id=144993145 is handled. Duration 232 ms by bot id=7691969270
+2025-07-28 11:30:15,547 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-28 11:30:15,547 - aiogram.dispatcher - WARNING - Sleep for 1.354101 seconds and try again... (tryings = 1, bot id = 7691969270)
+2025-07-28 11:30:16,983 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-28 11:30:16,983 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7691969270)
+2025-07-28 11:30:18,415 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7691969270)
+2025-07-28 11:30:18,417 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: Мужской
+2025-07-28 11:30:18,556 - aiogram.event - INFO - Update id=144993146 is handled. Duration 140 ms by bot id=7691969270
+2025-07-28 11:30:21,074 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-28 11:30:21,074 - aiogram.dispatcher - WARNING - Sleep for 1.672878 seconds and try again... (tryings = 2, bot id = 7691969270)
+2025-07-28 11:30:22,832 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-28 11:30:22,833 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7691969270)
+2025-07-28 11:30:26,916 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-28 11:30:26,916 - aiogram.dispatcher - WARNING - Sleep for 2.159582 seconds and try again... (tryings = 3, bot id = 7691969270)
+2025-07-28 11:30:29,157 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-28 11:30:29,158 - aiogram.dispatcher - WARNING - Sleep for 1.197711 seconds and try again... (tryings = 1, bot id = 7691969270)
+2025-07-28 11:30:33,446 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-28 11:30:33,446 - aiogram.dispatcher - WARNING - Sleep for 2.813076 seconds and try again... (tryings = 4, bot id = 7691969270)
+2025-07-28 11:30:36,349 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-28 11:30:36,349 - aiogram.dispatcher - WARNING - Sleep for 1.627008 seconds and try again... (tryings = 2, bot id = 7691969270)
+2025-07-28 11:30:41,117 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-28 11:30:41,117 - aiogram.dispatcher - WARNING - Sleep for 3.687388 seconds and try again... (tryings = 5, bot id = 7691969270)
+2025-07-28 11:30:44,901 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-28 11:30:44,901 - aiogram.dispatcher - WARNING - Sleep for 2.114603 seconds and try again... (tryings = 3, bot id = 7691969270)
+2025-07-28 11:30:50,097 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-28 11:30:50,097 - aiogram.dispatcher - WARNING - Sleep for 4.841842 seconds and try again... (tryings = 6, bot id = 7691969270)
+2025-07-28 11:30:55,027 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-28 11:30:55,027 - aiogram.dispatcher - WARNING - Sleep for 2.662212 seconds and try again... (tryings = 4, bot id = 7691969270)
+2025-07-28 11:31:00,839 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-28 11:31:00,840 - aiogram.dispatcher - WARNING - Sleep for 4.952594 seconds and try again... (tryings = 7, bot id = 7691969270)
+2025-07-28 11:31:01,695 - aiogram.dispatcher - INFO - Connection established (tryings = 5, bot id = 7691969270)
+2025-07-28 11:31:01,697 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: Мужской
+2025-07-28 11:31:01,829 - aiogram.event - INFO - Update id=144993147 is handled. Duration 132 ms by bot id=7691969270
+2025-07-28 11:31:03,533 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: Мужской
+2025-07-28 11:31:03,679 - aiogram.event - INFO - Update id=144993148 is handled. Duration 147 ms by bot id=7691969270
+2025-07-28 11:31:05,880 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-28 11:31:05,880 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7691969270)
+2025-07-28 11:31:06,299 - aiogram.dispatcher - INFO - Connection established (tryings = 8, bot id = 7691969270)
+2025-07-28 11:31:06,301 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: 1
+2025-07-28 11:31:06,556 - aiogram.event - INFO - Update id=144993149 is handled. Duration 256 ms by bot id=7691969270
+2025-07-28 11:31:08,047 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7691969270)
+2025-07-28 11:31:08,049 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: Отмена
+2025-07-28 11:31:08,149 - aiogram.event - INFO - Update id=144993150 is handled. Duration 101 ms by bot id=7691969270
+2025-07-28 11:31:09,710 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: Отмена
+2025-07-28 11:31:09,837 - aiogram.event - INFO - Update id=144993151 is handled. Duration 128 ms by bot id=7691969270
+2025-07-28 11:31:09,965 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-28 11:31:09,966 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7691969270)
+2025-07-28 11:31:10,714 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: Отмена
+2025-07-28 11:31:10,811 - aiogram.event - INFO - Update id=144993152 is handled. Duration 98 ms by bot id=7691969270
+2025-07-28 11:31:11,044 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-28 11:31:11,044 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7691969270)
+2025-07-28 11:31:11,229 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7691969270)
+2025-07-28 11:31:11,230 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: Отмена
+2025-07-28 11:31:11,353 - aiogram.event - INFO - Update id=144993153 is handled. Duration 123 ms by bot id=7691969270
+2025-07-28 11:31:15,128 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-28 11:31:15,128 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7691969270)
+2025-07-28 11:31:16,207 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-28 11:31:16,207 - aiogram.dispatcher - WARNING - Sleep for 1.161998 seconds and try again... (tryings = 1, bot id = 7691969270)
+2025-07-28 11:31:16,995 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7691969270)
+2025-07-28 11:31:16,997 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: Создать анкету
+2025-07-28 11:31:17,101 - aiogram.event - INFO - Update id=144993154 is handled. Duration 105 ms by bot id=7691969270
+2025-07-28 11:31:20,172 - aiogram.dispatcher - INFO - Connection established (tryings = 2, bot id = 7691969270)
+2025-07-28 11:31:20,174 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: Отмена
+2025-07-28 11:31:20,278 - aiogram.event - INFO - Update id=144993155 is handled. Duration 104 ms by bot id=7691969270
+2025-07-28 11:31:20,456 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-28 11:31:20,456 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7691969270)
+2025-07-28 11:31:21,537 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-28 11:31:21,538 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7691969270)
+2025-07-28 11:31:24,146 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7691969270)
+2025-07-28 11:31:24,148 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: Отмена
+2025-07-28 11:31:24,253 - aiogram.event - INFO - Update id=144993156 is handled. Duration 106 ms by bot id=7691969270
+2025-07-28 11:31:25,744 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-28 11:31:25,745 - aiogram.dispatcher - WARNING - Sleep for 1.384533 seconds and try again... (tryings = 1, bot id = 7691969270)
+2025-07-28 11:31:25,933 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: /start
+2025-07-28 11:31:26,038 - aiogram.event - INFO - Update id=144993157 is handled. Duration 105 ms by bot id=7691969270
+2025-07-28 11:31:27,214 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-28 11:31:27,215 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7691969270)
+2025-07-28 11:31:31,377 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-28 11:31:31,377 - aiogram.dispatcher - WARNING - Sleep for 1.754438 seconds and try again... (tryings = 2, bot id = 7691969270)
+2025-07-28 11:31:33,213 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-28 11:31:33,213 - aiogram.dispatcher - WARNING - Sleep for 1.397199 seconds and try again... (tryings = 1, bot id = 7691969270)
+2025-07-28 11:31:36,860 - aiogram.dispatcher - WARNING - Received SIGTERM signal
+2025-07-28 11:31:36,860 - aiogram.dispatcher - WARNING - Received SIGTERM signal
+2025-07-28 11:31:36,861 - aiogram.dispatcher - INFO - Polling stopped for bot @USURT_Meets_bot id=7691969270 - 'usurt_meets'
+2025-07-28 11:31:36,861 - aiogram.dispatcher - INFO - Polling stopped for bot @USURT_Meets_bot id=7691969270 - 'usurt_meets'
+2025-07-28 11:31:36,861 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-28 11:31:36,861 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-28 11:31:37,112 - __main__ - INFO - Bot stopped!
+2025-07-28 11:31:37,112 - __main__ - INFO - Bot stopped!
+2025-07-28 11:31:44,724 - __main__ - INFO - Starting bot
+2025-07-28 11:31:45,030 - __main__ - INFO - Setting up handlers...
+2025-07-28 11:31:45,030 - __main__ - INFO - Handlers setup completed
+2025-07-28 11:31:45,030 - __main__ - INFO - Router included in dispatcher
+2025-07-28 11:31:45,110 - __main__ - INFO - Bot started successfully!
+2025-07-28 11:31:45,111 - aiogram.dispatcher - INFO - Start polling
+2025-07-28 11:31:45,194 - aiogram.dispatcher - INFO - Run polling for bot @USURT_Meets_bot id=7691969270 - 'usurt_meets'
+2025-07-28 11:33:33,047 - __main__ - INFO - Starting bot
+2025-07-28 11:33:33,427 - __main__ - INFO - Setting up handlers...
+2025-07-28 11:33:33,428 - __main__ - INFO - Handlers setup completed
+2025-07-28 11:33:33,428 - __main__ - INFO - Router included in dispatcher
+2025-07-28 11:33:33,516 - __main__ - INFO - Bot started successfully!
+2025-07-28 11:33:33,516 - aiogram.dispatcher - INFO - Start polling
+2025-07-28 11:33:33,603 - aiogram.dispatcher - INFO - Run polling for bot @USURT_Meets_bot id=7691969270 - 'usurt_meets'
+2025-07-28 11:33:46,052 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: Создать анкету
+2025-07-28 11:33:47,050 - aiogram.event - INFO - Update id=144993158 is handled. Duration 997 ms by bot id=7691969270
+2025-07-28 11:33:48,663 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: Отмена
+2025-07-28 11:33:48,810 - aiogram.event - INFO - Update id=144993159 is handled. Duration 147 ms by bot id=7691969270
+2025-07-28 11:33:52,920 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: Создать анкету
+2025-07-28 11:33:53,034 - aiogram.event - INFO - Update id=144993160 is handled. Duration 114 ms by bot id=7691969270
+2025-07-28 11:33:55,081 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: Отмена
+2025-07-28 11:33:55,186 - aiogram.event - INFO - Update id=144993161 is handled. Duration 105 ms by bot id=7691969270
+2025-07-28 11:33:56,318 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: Создать анкету
+2025-07-28 11:33:56,429 - aiogram.event - INFO - Update id=144993162 is handled. Duration 111 ms by bot id=7691969270
+2025-07-28 11:33:58,353 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: ваня
+2025-07-28 11:33:58,695 - aiogram.event - INFO - Update id=144993163 is handled. Duration 342 ms by bot id=7691969270
+2025-07-28 11:34:01,698 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: 18
+2025-07-28 11:34:01,892 - aiogram.event - INFO - Update id=144993164 is handled. Duration 195 ms by bot id=7691969270
+2025-07-28 11:34:04,325 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: Мужской
+2025-07-28 11:34:04,325 - handlers.profile_handlers - INFO - Пол выбран: мужской, убираем клавиатуру
+2025-07-28 11:34:04,519 - aiogram.event - INFO - Update id=144993165 is handled. Duration 194 ms by bot id=7691969270
+2025-07-28 11:34:08,587 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: 8э
+2025-07-28 11:34:08,695 - aiogram.event - INFO - Update id=144993166 is handled. Duration 108 ms by bot id=7691969270
+2025-07-28 11:34:12,048 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: оиб
+2025-07-28 11:34:12,192 - aiogram.event - INFO - Update id=144993167 is handled. Duration 144 ms by bot id=7691969270
+2025-07-28 11:34:18,390 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: 4
+2025-07-28 11:34:18,493 - aiogram.event - INFO - Update id=144993168 is handled. Duration 104 ms by bot id=7691969270
+2025-07-28 11:34:20,593 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: Отмена
+2025-07-28 11:34:20,748 - aiogram.event - INFO - Update id=144993169 is handled. Duration 156 ms by bot id=7691969270
+2025-07-28 11:34:22,359 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: Моя анкета
+2025-07-28 11:34:22,523 - aiogram.event - INFO - Update id=144993170 is handled. Duration 165 ms by bot id=7691969270
+2025-07-28 11:34:27,481 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: Найти анкеты
+2025-07-28 11:34:27,690 - aiogram.event - INFO - Update id=144993171 is handled. Duration 210 ms by bot id=7691969270
+2025-07-28 11:34:28,928 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: Только мужчины
+2025-07-28 11:34:28,928 - root - INFO - Поиск по полу: gender_param=мужской
+2025-07-28 11:34:28,928 - root - INFO - Найдено анкет: 0
+2025-07-28 11:34:29,053 - aiogram.event - INFO - Update id=144993172 is handled. Duration 127 ms by bot id=7691969270
+2025-07-28 11:34:30,245 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: Только женщины
+2025-07-28 11:34:30,246 - root - INFO - Поиск по полу: gender_param=женский
+2025-07-28 11:34:30,246 - root - INFO - Найдено анкет: 0
+2025-07-28 11:34:30,363 - aiogram.event - INFO - Update id=144993173 is handled. Duration 120 ms by bot id=7691969270
+2025-07-28 11:34:30,814 - middleware.logging_middleware - INFO - User 1080893983 (@avsize) sent: Все анкеты
+2025-07-28 11:34:30,928 - aiogram.event - INFO - Update id=144993174 is handled. Duration 114 ms by bot id=7691969270
+2025-07-28 12:04:33,873 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [Errno 60] Operation timed out
+2025-07-28 12:04:33,874 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7691969270)
+2025-07-28 12:04:45,118 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7691969270)
+2025-07-28 12:17:55,612 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [Errno 54] Connection reset by peer
+2025-07-28 12:17:55,613 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7691969270)
+2025-07-28 12:18:07,007 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7691969270)
+2025-07-28 12:19:18,396 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [Errno 60] Operation timed out
+2025-07-28 12:19:18,396 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7691969270)
+2025-07-28 12:19:35,549 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7691969270)
+2025-07-28 12:41:24,637 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [Errno 60] Operation timed out
+2025-07-28 12:41:24,637 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7691969270)
+2025-07-28 12:41:54,932 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7691969270)
+2025-07-28 12:51:12,436 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-07-28 12:51:12,437 - aiogram.dispatcher - INFO - Polling stopped for bot @USURT_Meets_bot id=7691969270 - 'usurt_meets'
+2025-07-28 12:51:12,438 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-28 12:51:12,690 - __main__ - INFO - Bot stopped!

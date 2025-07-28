@@ -1,0 +1,27 @@
+version: '3.8'
+
+services:
+  bot:
+    build: 
+      context: ../..
+      dockerfile: usurt_bot/docker/Dockerfile
+    container_name: university-dating-bot
+    restart: unless-stopped
+    environment:
+      - BOT_TOKEN=${BOT_TOKEN}
+      - ADMIN_IDS=${ADMIN_IDS:-}
+      - DB_PATH=/app/data/university_dating.db
+      - DEBUG=${DEBUG:-False}
+    volumes:
+      - ../../data:/app/data
+      - ../../logs:/app/logs
+    networks:
+      - bot-network
+
+networks:
+  bot-network:
+    driver: bridge
+
+volumes:
+  data:
+  logs: 
